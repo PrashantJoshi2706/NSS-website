@@ -71,6 +71,8 @@ margin-top:10px;
 }
 .space_left{
 padding-left:0; 
+width: 25%;
+
 } 
 .space_right{
 padding-right:0;
@@ -470,6 +472,7 @@ br{
  }
 .space_left{
 padding-left:15px; 
+width:auto;
 } 
 .space_right{
 padding-right:15px; 
